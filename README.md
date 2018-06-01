@@ -33,7 +33,14 @@ System.out.println("App ID: ca-app-pub-1527512419709948~5695188817");
 - View report
 - ...
 2. Navigate to <b>Apps</b>
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/8.png)
+- No need Firebase. Please notice here:
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/9.png)
+3. Go to detail of application
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/10.png)
 
+## Ad units
+1. 
 
 
 
