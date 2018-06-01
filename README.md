@@ -11,10 +11,11 @@ When to use it:
 2. Configure some informations arround
 - Area/Country: Vietnam
 - Confirm by Email
-3. When an object should be able to notify other objects without knowing who objects are.
+3. Going to Start screen
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/1.png)
 
 ## We Research about "Observe Design Pattern"
 ``The basic building blocks of reactive code are Observables and Subscribers. The Observable class is the <b>source of data</b> and the Subscriber class is <b>the consumer</b>.``
-![alt text](https://github.com/danisluis6/RxJava-Introduction/blob/level_research_reactive/Deeply/1.png)
+
 
 
