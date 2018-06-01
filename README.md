@@ -7,8 +7,10 @@
 ## Visit website `https://www.google.com/admob/`
 
 When to use it:
-1. When one object changes its state,then all other dependents object must automatically change their state to maintain consistency
-2. When subject doesn't know about number of observers it has.
+1. Register account: <b>gamebfme2test@gmail.com</b> and password: xxxxxxx. You should register with your google account.
+2. Configure some informations arround
+- Area/Country: Vietnam
+- Confirm by Email
 3. When an object should be able to notify other objects without knowing who objects are.
 
 ## We Research about "Observe Design Pattern"
