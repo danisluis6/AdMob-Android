@@ -40,7 +40,17 @@ System.out.println("App ID: ca-app-pub-1527512419709948~5695188817");
 ![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/10.png)
 
 ## Ad units
-1. 
+1. Working with Banner
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/11.png)
+2. Create advertisement unit
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/12.png)
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/13.png)
+3. Save App Id ID and Ad Unit ID
+- App ID: ca-app-pub-1527512419709948~5695188817
+- Ad Unit ID: ca-app-pub-1527512419709948/3735788628
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/14.png)
+![alt text](https://github.com/danisluis6/AdMob-Android/blob/admob_lv_1/mmo/15.png)
+
 
 
 
