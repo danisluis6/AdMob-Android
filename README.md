@@ -7,7 +7,7 @@
 
 2. Done setting Firebase in Application
 
-3.  
+3. Setup Dagger 2 and Butterknife
 
 
 ## Reference
