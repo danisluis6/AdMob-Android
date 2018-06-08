@@ -52,6 +52,7 @@ public class FragmentRecycler extends Fragment {
         RecyclerView mRecyclerView = rootView.findViewById(R.id.recycler_view);
         mRecyclerView.setHasFixedSize(true);
         mRecyclerView.setLayoutManager(mLayoutManager);
+        mRecyclerViewAdapter.updateData(mRecyclerViewItems);
         mRecyclerView.setAdapter(mRecyclerViewAdapter);
 
         return rootView;

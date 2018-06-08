@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Admob</string>
-    <string name="admob_app_id">ca-app-pub-1527512419709948~5470857332</string>
-    <string name="ad_unit_id">ca-app-pub-1527512419709948/1178482430</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>
+
+    <!--<string name="admob_app_id">ca-app-pub-1527512419709948~5695188817</string>-->
+    <!--<string name="ad_unit_id">ca-app-pub-1527512419709948/3735788628</string>-->
 </resources>

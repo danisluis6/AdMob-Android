@@ -35,7 +35,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
 
     private ViewType mViewType;
     private final Context mContext;
-    private final List<Object> mListObject;
+    private List<Object> mListObject;
 
     /**
      * For this example app, the recyclerViewItems list contains only
@@ -187,5 +187,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewH
 
         // Assign native ad object to the native view.
         adView.setNativeAd(nativeContentAd);
+    }
+
+    public void updateData(List<Object> recyclerViewItems) {
+        mListObject = recyclerViewItems;
+        notifyDataSetChanged();
     }
 }

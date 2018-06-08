@@ -32,7 +32,7 @@ import tutorial.lorence.admobandroid.view.BaseActivity;
 
 public class HomeActivity extends BaseActivity {
 
-    public static final int NUMBER_OF_ADS = 5;
+    public static final int NUMBER_OF_ADS = 10;
     private List<Object> mArrMenuItems = new ArrayList<>();
     private List<NativeAd> mArrNativeAds = new ArrayList<>();
 
@@ -120,6 +120,7 @@ public class HomeActivity extends BaseActivity {
     }
 
     private void loadMenu() {
+        mFragmentTransaction = getSupportFragmentManager().beginTransaction();
         mFragmentTransaction.replace(R.id.fragment_container, mFragmentRecycler);
         mFragmentTransaction.disallowAddToBackStack();
         mFragmentTransaction.commit();
