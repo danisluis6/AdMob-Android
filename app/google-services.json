@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1065570745618",
+    "firebase_url": "https://admob-android-tutorial.firebaseio.com",
+    "project_id": "admob-android-tutorial",
+    "storage_bucket": "admob-android-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065570745618:android:e1a5e7bd047befa7",
+        "android_client_info": {
+          "package_name": "tutorial.lorence.admobandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065570745618-8i6adhlthl820ubqo3bcj7v357atprmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tutorial.lorence.admobandroid",
+            "certificate_hash": "220e39e2501be9b1ec6ee176ca6bfda408e15cee"
+          }
+        },
+        {
+          "client_id": "1065570745618-6vvb60sb0dvhhuomnp55c27nsvdv82vr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1065570745618-6vvb60sb0dvhhuomnp55c27nsvdv82vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gwnYnPPYknYOamn07fkd9aPgicZotds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065570745618-6vvb60sb0dvhhuomnp55c27nsvdv82vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
